@@ -1,0 +1,32 @@
+{
+  "name": "Control de Reparaciones — Aliento de Vida",
+  "short_name": "Aliento de Vida",
+  "description": "Control de reparaciones del Taller de Celulares Aliento de Vida: órdenes, entregas, inventario, resumen y diezmo. Trabaja sin conexión, guardando todo en el equipo.",
+  "lang": "es",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": ".",
+  "scope": ".",
+  "background_color": "#070b14",
+  "theme_color": "#070b14",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
